@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff2b2b"
+    tools:context=".fragmentos.TercerFragmento">
+    <TextView
+        android:gravity="center"
+        android:textSize="36dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Tercer fragmento" />
+</FrameLayout>
